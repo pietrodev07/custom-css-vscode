@@ -1,0 +1,32 @@
+.tab,
+input,
+.monaco-tree .monaco-tree-row .label-name,
+.monaco-list .monaco-list-row .monaco-icon-label .label-name,
+.extensions-search-container * {
+  font-family: "Dank Mono", monospace !important;
+  font-size: 12px !important;
+  font-weight: 700 !important;
+}
+
+.title-label h2 {
+  font-family: "Dank Mono", monospace !important;
+  font-weight: 700 !important;
+}
+
+a.label-name {
+  font-size: 12px !important;
+}
+
+.titlebar-container .titlebar-right {
+  display: none !important;
+}
+
+.titlebar-container * {
+  text-align: right;
+  font-family: "Dank Mono", monospace !important;
+  font-size: 11px !important;
+}
+
+.action-toolbar-container * {
+  display: none !important;
+}
