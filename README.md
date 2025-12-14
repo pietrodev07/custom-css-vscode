@@ -17,7 +17,7 @@
 ```json
 {
   "vscode_custom_css.imports": [
-    "file:///Users/pietrodev07/Documents/custom-vscode.css"
+    "file:///Users/<username>/Documents/custom-vscode.css"
   ]
 }
 ```
