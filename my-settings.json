@@ -1,0 +1,46 @@
+{
+  "workbench.sideBar.location": "right",
+  "editor.fontFamily": "Dank Mono",
+  "editor.fontSize": 12.5,
+  "editor.lineHeight": 1.7,
+  "window.zoomLevel": -0.8,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "breadcrumbs.enabled": false,
+  "editor.tabSize": 2,
+  "editor.letterSpacing": 0.75,
+  "editor.fontWeight": "600",
+  "terminal.integrated.fontWeight": "bold",
+  "terminal.integrated.lineHeight": 2,
+  "terminal.integrated.letterSpacing": 1,
+  "editor.cursorWidth": 8,
+  "editor.formatOnSave": true,
+  "editor.stickyScroll.enabled": false,
+  "workbench.activityBar.location": "top",
+  "window.newWindowProfile": "Default",
+  "editor.wordWrap": "on",
+  "window.autoDetectColorScheme": true,
+  "workbench.productIconTheme": "fluent-icons",
+  "vscode_custom_css.imports": [
+    "file:///Users/pietrodev07/Documents/custom-vscode.css"
+  ],
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "extensions.experimental.affinity": {
+    "asvetliakov.vscode-neovim": 1
+  },
+  "explorer.compactFolders": false,
+  "workbench.statusBar.visible": false,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/node_modules": true
+  },
+  "editor.minimap.enabled": false,
+  "terminal.integrated.stickyScroll.enabled": false,
+  "workbench.preferredDarkColorTheme": "Default Dark+"
+}
