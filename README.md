@@ -31,3 +31,7 @@
 ## Customization
 
 You can customize the CSS by editing the `custom-vscode.css` file.
+
+## Profile Link
+
+https://vscode.dev/editor/profile/github/cdb8f61f91cefb7cdfc3872c055d0c8e
